@@ -1,0 +1,532 @@
+    5  python3
+    6  sudo
+    7  sudo ifconfig
+    8  open emre.txt
+    9  open file emre.txt
+   10  dfv;sldgsudjgs[nkgjsg
+   11  inxi -FxRduplo -c0 | nc termbin.com 9999
+   12  ifconfig
+   13  ls
+   14  ls -a
+   15  ls -l
+   16  ls -h
+   17  ls -l -h
+   18  ls -ahl
+   19  clear
+   20  ls -ahl
+   21  clear
+   22  mdk'r
+   23  mkdir
+   24  cleat
+   25  clear
+   26  mkdir emre
+   27  ls
+   28  mkdir .emre
+   29  ls
+   30  ls -ah
+   31  clear
+   32  ls -ahl
+   33  cd Dekstop
+   34  cd emre
+   35  clear
+   36  touch emre
+   37  touch emre.txt
+   38  clear
+   39  ls
+   40  cd ..
+   41  ls -ah
+   42  cd
+   43  cd ..
+   44  cd Dekstop
+   45  cd emre
+   46  cd //
+   47  cd..
+   48  cd ..
+   49  lsah
+   50  ls - ah
+   51  ls -ah
+   52  cd //
+   53  cd ..
+   54  clear
+   55  cd
+   56  gedit emre.txt
+   57  cat emre.txt
+   58  more emre.txt
+   59  less emre.txt
+   60  clear
+   61  mkdir emre.txt
+   62  mkdir ulkem
+   63  ls
+   64  mv Dekstop
+   65  mv Desktop/ulkem/ulkem/txt Desktop
+   66  mv Desktop/ulkem/ulkem.txt Desktop
+   67  cd ulkem
+   68  touch ulkem.txt
+   69  mv Desktop/ulkem/ulkem.txt Dekstop
+   70  mv Desktop/ulkem/ulkem.txt emre
+   71  cd //
+   72  cd ..
+   73  clear
+   74  cd
+   75  mv Desktop/ulkem/ulkem.txt emre
+   76  ls
+   77  cd Desktop
+   78  ls
+   79  cd ..
+   80  mv ulkem/ulkem.txt emre
+   81  ls Desktop
+   82  cd Desktop
+   83  cd ..
+   84  ls
+   85  clear
+   86  rm -r emre
+   87  mkdir emre
+   88  cd emre
+   89  touch emre.txt
+   90  cd emre
+   91  cd ..
+   92  rm emre/emre.txt
+   93  rm -r emre 
+   94  ls
+   95  cd Desktop
+   96  ls
+   97  ls =as
+   98  cd ..
+   99  ls -a
+  100  rm .emre
+  101  rm -r emre
+  102  rm emre.txt
+  103  rm /emre
+  104  rm /.emre
+  105  rm -r .emre
+  106  ls -a
+  107  cd ulkem
+  108  ged
+  109  gedit emre.txt
+  110  cd ..
+  111  rm ulkem
+  112  rm ulkem/ulkem.txt
+  113  rm -r ulkem
+  114  clear
+  115  man
+  116  man mkdir
+  117  ls -l
+  118  ls -lh
+  119  cmatr'x
+  120  cmatrix
+  121  close()
+  122  mkdir emre
+  123  cd emre
+  124  ls -ahl
+  125  cd ..
+  126  rm emre
+  127  rm -r emre
+  128  mkdir emre
+  129  ls -lh
+  130  clear
+  131  cd emre
+  132  touch emre.txt
+  133  cd ..
+  134  cd emre
+  135  ls -l
+  136  chmod g-w emre.txt
+  137  ls -a
+  138  ls -l
+  139  chmod g+x emre.txt
+  140  ls -l
+  141  chmod o+wx , o-r emre.txt
+  142  chmod o+wx,o-r emre.txt
+  143  ls -l
+  144  cmatrix
+  145  sudo apt install cmatrix
+  146  cmatrix
+  147  cmartix
+  148  cd ..
+  149  cmatrix
+  150  clear
+  151  man tar
+  152  msn tar
+  153  man tar
+  154  clear
+  155  apt-get-git
+  156  apt-get-install git
+  157  sudo apt-get install git
+  158  python3
+  159  python3 Untitled Document 1
+  160  python3 emree/py
+  161  python3 emree.py
+  162  cd emre
+  163  python3 emree.py
+  164  cd ..
+  165  python3 emree.py
+  166  cd emre
+  167  python3 emree.py
+  168  python3 emree
+  169  python3 emree.py
+  170  python3 emree
+  171  clear
+  172  git add emree
+  173  git add emree.py
+  174  git clone https://github.com/1emreertrk/fproject.git
+  175  cd fproject
+  176  git add emree.py
+  177  git add emree
+  178  git config --global user.email "emreertrk81@hotmail.com"
+  179  git config --global user.name "1emreertrk"
+  180  git commit -m emree.py
+  181  git push -u origin master
+  182  rm -r Dekstop/Untitled Document
+  183  rm -r Untitled Document.txt
+  184  mkdir linux notlar
+  185  cd notlar
+  186  gedit not
+  187  mkdir deneme
+  188  touch deneme.txt
+  189  mkdir deneme1
+  190  touch deneme1.txt
+  191  rm deneme.txt
+  192  rm deneme1.txt
+  193  cd deneme
+  194  touch deneme.txt
+  195  cd home
+  196  cd ..
+  197  cd deneme
+  198  cd ~
+  199  cd deneme1
+  200  touch deneme1.txt
+  201  cd ~
+  202  rm 
+  203  rm linux
+  204  cd linux
+  205  rm linux
+  206  cd ..
+  207  rm -r linux
+  208  cd deneme
+  209  copy deneme.txt deneme1
+  210  cd .. 
+  211  cp deneme/deneme.txt deneme1
+  212  rm deneme
+  213  cd deneme
+  214  rm deneme
+  215  rm deneme.txt
+  216  touch deneme.txt
+  217  cd ..
+  218  rm -r deneme
+  219  ls
+  220  ls -a
+  221  ls -l
+  222  chmod go-rwx deneme.txt
+  223  cd deneme
+  224  chmod go-rwx deneme.txt
+  225  cd deneme1
+  226  chmod go-rwx deneme.txt
+  227  ls -l
+  228  cd ~
+  229  cd notlar
+  230  cd not
+  231  man gedit
+  232  gedit not
+  233  cd //
+  234  cd ..
+  235  cd ~
+  236  hello wordl
+  237  hello
+  238  #!@##$#%#%^$%^%&%^&*&^(*&(*()(*)(_)__+]}"?_)(**&&%%$$##hello
+  239  /bin/usr/bin|uniq|wc-| exit
+  240  ls /bin/usr/bin|uniq|wc-| exit
+  241  clear
+  242  date
+  243  call
+  244  cal
+  245  date
+  246  whoami
+  247  clear
+  248  date
+  249  whoami
+  250  nano
+  251  ./emre.sh
+  252  chmod + x
+  253  chmod+x
+  254  chmod + x
+  255  chmod + x emre.sh
+  256  chmod + x emre
+  257  chmod + x emre.sh
+  258  sudo chmod +x emre.sh
+  259  ./emre.sh
+  260  nano emre.sh
+  261  sudo chmod +x emre.sh
+  262  ./emre.sh
+  263  nano emree.sh
+  264  ./emree.sh
+  265  chmod + x emree.sh
+  266  chmod +x emree.sh
+  267  nano emree.sh
+  268  chmod +x emree.sh
+  269  ./emree.sh
+  270  nano emreee.sh
+  271  chmod +x emreee.sh
+  272  ./emreee.sh
+  273  nano emreee.sh
+  274  ./emreee.sh
+  275  nano emreee.sh
+  276  ./emreee.sh.
+  277  read -sp "enter password>>> " password 
+  278  ec/t
+  279  clear
+  280  read -sp "enter password ,,, " password 
+  281  nano emreee.sh
+  282  ls -ah
+  283  variableName = 5
+  284  declare - a num = (3 2 2 12 5)
+  285  declare -a num = (534534  534534 534 543 6546 56674 )
+  286  clear
+  287  nano emreee.sh
+  288  ./emreee.sh
+  289  chmod +x emreee.sh
+  290  chmod +x emreee.sh
+  291  ./emreee.sh
+  292  nano emreee.sh
+  293  ./emreee.sh
+  294  nano emreee.sh
+  295  ./emreee.sh
+  296  nano emreee.sh
+  297  ./emreee.sh
+  298  cmatrix
+  299  clear
+  300  cmatrix
+  301  c;ear
+  302  clear
+  303  nano emreee.sh
+  304  nano 
+  305  chmod +x emre1.sh
+  306  ./emre1.sh
+  307  nano emre1.sh
+  308  ./emre1.sh
+  309  nano emre1.sh
+  310  ./emre1.sh
+  311  nano emre1.sh
+  312  ./emre1.sh
+  313  nano emre1.sh
+  314  ./emre1.sh
+  315  nano emre1.sh
+  316  ./emre1.sh
+  317  nano emre1.sh
+  318  ./emre1.sh
+  319  nano emre1.sh
+  320  ./emre1.sh
+  321  nano emre1.sh
+  322  ./emre1.sh
+  323  nano emre2.sh
+  324  chmod +x emre2.sh
+  325  ./emre2.sh
+  326  nano emre2.sh
+  327  ./emre2/sh
+  328  nano emre2.sh
+  329  ./emre2.sh
+  330  nano emre2.sh
+  331  ./emre2.sh
+  332  ./emre1.sh
+  333  nano emre1.ssh
+  334  nano emre1.sh
+  335  nano emre2.sh
+  336  ./emre2.sh
+  337  nano emre2.sh
+  338  ./emre2.sh
+  339  nano emre3.sh
+  340  chmod +x emre3.sh
+  341  ./emre3.sh
+  342  nano emre3.sh
+  343  ./emre3.sh
+  344  nano emre3.sh
+  345  ./emre3.sh
+  346  nano emre3.sh
+  347  ./emre3.sh
+  348  ./emre3.sh 5
+  349  clear
+  350  nano emre4.sh
+  351  chmod +x emre.sh
+  352  ./emre4.sh
+  353  chmod +x emre4.sh
+  354  ./emre4.sh
+  355  nano emre4.sh
+  356  ./emre4.sh
+  357  nano emre4.sh
+  358  ./emre4.sh
+  359  nano emre4.sh
+  360  ./emre4.sh
+  361  nano4.sh
+  362  nano emre4.sh
+  363  emre4.sh
+  364  ./emre4.sh
+  365  nano emre4.sh
+  366  ./emre4.sh
+  367  nano emre.4sh
+  368  nano emre4.sh
+  369  nano emre5.sh
+  370  ./emre5.sh
+  371  chmod +x emre5.sh
+  372  ./emre.5 sh
+  373  ./emre5.sh
+  374  nano emre.sh
+  375  nano emre5.sh
+  376  ./emre5.sh
+  377  clear
+  378  cd ..
+  379  clear
+  380  cd ..
+  381  history
+  382  clear
+  383  env
+  384  ls && cd /etc
+  385  clear
+  386  help 
+  387  ls -version
+  388  ls --version
+  389  whatis echo
+  390  whatis whoami
+  391  apropos  print
+  392  mandb
+  393  lsb_rekease -a
+  394  lsb_release -a
+  395  cal
+  396  date
+  397  cal 2 1999
+  398  hostname 
+  399  hostname
+  400  w
+  401  who 
+  402  whoami
+  403  who -b
+  404  who -r
+  405  uptime
+  406  whereis config
+  407  whereis etc
+  408  locate config
+  409  locate etc
+  410  dmidecode
+  411  sudo dmidecode
+  412  sudo dmidecode -t system
+  413  sudo dmidecode -t 4
+  414  sudo dmidecode -t 0
+  415  cat
+  416  cat /proc/meminfo
+  417  cat proc/cpuinfo
+  418  cat /proc/cpuinfo
+  419  sudo $ fdisk -l
+  420  sudo $fdisk -l
+  421  df -h
+  422  du /etc
+  423  sudo du /etc
+  424  du -ha /etc
+  425  free -m
+  426  stat -f
+  427  status -f
+  428  stat --f
+  429  stat -f
+  430  clear
+  431  cd Desktop
+  432  touch emre
+  433  cat > emre
+  434  cat emre
+  435  rm emre
+  436  echo "u`ll be a master of linux
+  437  "
+  438  clear
+  439  ex't
+  440  exit
+  441  echo echo
+  442  echo emre
+  443  echo "emre"
+  444  cd desktop
+  445  cd Desktop
+  446  touch emre
+  447  touch emre1
+  448  cat > emre
+  449  cat > emre1
+  450  paste emre emre1
+  451  rm emre && emre1
+  452  rm emre1
+  453  cd ..
+  454  cd ~
+  455  cd Desktop
+  456  touch emre
+  457  cat > emre
+  458  shred -n 10 -v emre
+  459  cat emre
+  460  shred -uv emre
+  461  cleae
+  462  touch emre
+  463  touch emre1
+  464  touch emre2
+  465  tar -cf file.tar emre emre1 emre2
+  466  rm emre emre1 emre2
+  467  tar -vfx file.tar
+  468  tar -xvf file.tar
+  469  gzip emre
+  470  bzip2 emre1
+  471  gunzip emre
+  472  bumzip2 emre1
+  473  bumzip2 emre1.gz
+  474  bumzip2 emre1.bz
+  475  bumzip2 emre1.bz2
+  476  bunzip2 emre1.bz2
+  477  umask
+  478  clear
+  479  touch emre
+  480  chattr +i emre 
+  481  sudo chattr +i emre
+  482  rm emre 
+  483  sudo rm emre
+  484  rm emre
+  485  sudo rm emre
+  486  lsattr 
+  487  chattr -i emre
+  488  sudo chattr -i emre
+  489  rm emre
+  490  clear
+  491  history
+  492  clear
+  493  passwd
+  494  shadow
+  495  passwd shadow
+  496  cat /etc/shadow
+  497  sudo cat /etc/shadow
+  498  ps aux
+  499  pstree
+  500  pstree -p
+  501  top
+  502  pgrep firefox
+  503  kill -9 4451
+  504  sudo cfdisk
+  505  runlevel
+  506  ls rc*.*
+  507  sudo ls rc*.*
+  508  cd etc
+  509  cd /etc
+  510  sudo ls rc*.*
+  511  cd ..
+  512  sudo apt-get install bleachbit
+  513  sudo apt-get remove bleachbit
+  514  cd ~
+  515  sudo apt-get uptade
+  516  apt-get uptade
+  517  ifconfig
+  518  iwcongif
+  519  iwconfig
+  520  netstat
+  521  whois ondedi.com.tr
+  522  whois onedio.com.tr
+  523  sudo whois onedio.com.tr
+  524  sudo apt-get install whois
+  525  whois onedio.com.tr
+  526  whois reddit.con
+  527  whois reddit.comq
+  528  whois reddit.com
+  529* 
+  530  whois cnnturk.com
+  531  q
+  532  qqwg
+  533  d];qf
+  534  q
+  535  history
+
